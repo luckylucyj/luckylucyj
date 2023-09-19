@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Luckylucyj%20Github&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luckylucyj%20Github&fontColor=f7f5f5)
 <div align="left">
 	<h3>📚Studying</h3>
 </div>
