@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=#0769AD" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=#3776AB" />
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 <div align="left">
 	<h3>🛠Tools</h3>
