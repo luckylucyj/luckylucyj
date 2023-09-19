@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&width=100%&text=Luckylucys%Github&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=400&width=100%&text=Luckylucys%Github)
 
 
 
