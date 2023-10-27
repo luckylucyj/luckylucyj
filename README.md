@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=#0769AD" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor="black" />
+	<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=black" />
 </div>
 <div align="left">
 	<h3>🛠Tools</h3>
